@@ -6,6 +6,7 @@ Curated list of companies working on Machine Learning in Nepal.
 
 Name | Location | Contact
 ------------ | ------- | -------
+[Agile IT Solutions Pvt. Ltd](http://www.agileitsolutions.net/) | Anamnagar, Kathmandu | <a href="https://www.linkedin.com/company/agile-it-solutions-pvt-ltd/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> |
 [Arch Analytics](https://archanalytics.ai/) | Kathmandu | <a href="https://www.linkedin.com/company/archanalytics/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> |
 [CraftData Labs](http://www.craftdatalabs.com/) | Baluwatar, Kathmandu | <a href="https://www.linkedin.com/company/craftdata-labs/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> |
 [Deerwalk Inc.](https://www.deerwalk.com/) | Kathmandu | <a href="https://www.linkedin.com/company/deerwalk-inc/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> |
