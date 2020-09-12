@@ -7,7 +7,8 @@ Curated list of companies working on Machine Learning in Nepal.
 Name | Location | Contact
 ------------ | ------- | -------
 [Agile IT Solutions Pvt. Ltd](http://www.agileitsolutions.net/) | Anamnagar, Kathmandu | <a href="https://www.linkedin.com/company/agile-it-solutions-pvt-ltd/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
-[Arch Analytics](https://archanalytics.ai/) | Kathmandu | <a href="https://www.linkedin.com/company/archanalytics/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Arch Analytics](https://archanalytics.ai/) | Kathmandu | <a href="https://www.linkedin.com/company/archanalytics/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a>
+[Asmi](https://asmi.co/) | Bharatpur, Chitwan | <a href="https://www.linkedin.com/company/asmicorp/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [A.B.G.S. Group Pvt. Ltd.](https://abgsgroup.com/) | Kathmandu | <a href="https://www.linkedin.com/company/a-b-g-s--group-pvt--ltd-/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [BerryBytes](https://www.berrybytes.com/) | Kathmandu | <a href="https://www.facebook.com/berrybytestech/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" width="20"/></a> 
 [Bottle Technology Pvt. Ltd](https://bottle.com.np) | Kathmandu | <a href="https://www.linkedin.com/company/bottle-technology/about/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
