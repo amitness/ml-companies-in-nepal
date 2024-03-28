@@ -48,7 +48,8 @@ Name | Location | Contact
 [Treeleaf Technologies](https://treeleaf.ai) | Kathmandu | <a href="https://www.linkedin.com/company/treeleafai/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Wiseyak Inc.](http://wiseyak.com/) | Kathmandu | <a href="https://www.linkedin.com/company/wiseyakinc/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 [Vairav Technology](https://vairav.net/) | Baluwatar, Kathmandu | <a href="https://www.linkedin.com/company/vairavtechnology/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
-[Naamche Technology](https://www.naamche.com/) | Dillibazar, Kathmandu | <a href="https://www.linkedin.com/company/naamche/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Vertex Special Technology](https://www.linkedin.com/company/vertex-special-technology-nepal/) | Dillibazar, Kathmandu | <a href="https://www.linkedin.com/company/vertex-special-technology-nepal/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
+[Naamche Technology](https://www.naamche.com/) | Lalitpur | <a href="https://www.linkedin.com/company/naamche/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20"/></a> 
 
 ## Contribution
 Contributions are very welcome! Please submit a pull request on GitHub.
